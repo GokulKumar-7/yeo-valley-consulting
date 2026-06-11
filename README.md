@@ -204,9 +204,3 @@ pip install pandas numpy matplotlib seaborn openpyxl
 ## Conclusion
 This project demonstrates how structured web analytics can transform raw GA4 event data into a clear, prioritised service improvement roadmap for a consumer loyalty programme. Yeo Valley's core problem is not website traffic — it is the near-complete drop-off between account registration and active Yeokens redemption. The analysis consistently points to three root causes: digital friction in transactional flows, a lack of cross-linking between gamified loyalty pages and broader site content, and an underdeveloped content strategy that fails to build return visit habits. Addressing these through targeted UX changes, content personalisation, and community features would directly improve the 4.37% redemption rate and strengthen the Yeokens loyalty programme's long-term commercial value.
 
-## Appendix
-- 📊 [Monthly Content Analysis Tool (Excel)](https://docs.google.com/spreadsheets/d/1husQmNBuiwcTn0QlJWNBybGpPlzvyAr/edit?usp=sharing)
-- 🐍 [Channel-wise Analysis (Colab)](https://colab.research.google.com/drive/1Y_zQbnjIf3vNb0d2nBMTmqhyFympn_K6?usp=sharing)
-- 🐍 [Recipes & Blogs Categories (Colab)](https://colab.research.google.com/drive/105UxAm14KgdxsRfR9d4359b4R_e3BaPL?usp=sharing)
-- 🐍 [Landing Page Performance Analysis (Colab)](https://colab.research.google.com/drive/1EyUc7_lbJXnmPPX7K8vc0_ewK0PKPDn?usp=sharing)
-- 🐍 [Customer Behaviour Analysis (Colab)](https://colab.research.google.com/drive/1Si0JMq6tJu94DAQOvDMux9jceH93RDvt?usp=sharing)
